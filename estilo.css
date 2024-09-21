@@ -1,0 +1,50 @@
+body{
+    background: #d2d2c1 url(Imagens/fundo.png);
+}
+
+#principal {
+    width: 1300px;
+}
+
+#menu {
+    background: #c5c5b2;
+    padding: 40px;
+    text-align: center;
+    
+}
+
+#conteudo {
+    background: #e8e8d9;
+    padding: 10px;
+}
+
+#titulo_sobre {
+    font-family: 'Times New Roman', Times, serif;
+    color: #4b566a;
+}
+
+.bordas {
+    border: 10px #c5c5b2 solid;
+}
+
+a {
+    color: #4b566a;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 5px;
+
+}
+
+a:hover {
+    color: #d2d2c1; /* cor ao passar o mouse por cima do link */
+}
+
+.centralizar {
+    text-align: center;
+}
+
+input {
+    cursor: pointer;
+}
+
